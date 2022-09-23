@@ -1,0 +1,9 @@
+[
+    {
+        "id":1,
+        "name":"test",
+        "email": "test@gmail.com",
+        "password": "test123",
+        "isActive": true
+    }
+]
